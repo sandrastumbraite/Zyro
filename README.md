@@ -1,2 +1,0 @@
-# Zyro
-QA Engineer task
