@@ -14,7 +14,7 @@ Inside this repository there are three folders:
 
 To run the automation test follow these steps:
 
-1. Ensure that Node.js and npm are installed on your computer, all commands should be run in Terminal.
+1. Ensure that Node.js and npm are installed on your computer, all commands should be run in Terminal
 2. Install TestCafe globally using command: npm install -g testcafe
 3. Ensure that you are on the same location as the Test.js file
 4. Run the automation test using command: testcafe chrome Test.js
